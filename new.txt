@@ -1,0 +1,5 @@
+Name - Kamneva Mariya Evgenevna;
+Age - 27;
+Pets - 1;
+Salary - 70 000 rub
+
